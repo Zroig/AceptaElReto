@@ -1,6 +1,6 @@
 package ex100;
 import java.util.*;
-
+//NOT SENDED
 public class solution {
 	static java.util.Scanner in;
 
