@@ -40,6 +40,7 @@ public class solution {
 			//System.out.println(map);
 			
 		}
+		sc.close();
 	}
 
 }
