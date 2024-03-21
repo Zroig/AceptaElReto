@@ -65,6 +65,6 @@ public class solution {
 
             return false;
         }
-        public static
+        
 
 }
